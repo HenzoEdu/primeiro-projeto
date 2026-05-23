@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: Helvetica;
+    background-color : #C68E17;
+    color: whitesmoke;
+    -webkit-text-stroke: 1px #000000;
+    text-shadow: 5px 5px 7px rgba(0, 0, 0, 0.5);
+}
+h1 {
+    color:maroon;
+}
+
+h1, h2, h3, p{
+    margin: 25px;
+}
